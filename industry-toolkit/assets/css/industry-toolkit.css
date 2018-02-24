@@ -1,0 +1,31 @@
+
+.industry_section_title {
+    text-align: center;
+}
+.industry_section_title h4 {
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+.industry_section_title h2 {
+    margin-bottom: 40px;
+}
+
+
+.industry_service_box h2 {
+    font-size: 21px;
+    font-weight: 600;
+    margin-bottom: 25px;    
+}
+.industry_service_box {
+    text-align: center;
+}
+.service-icon {
+    color: #f4cb10;
+    font-size: 61px;
+    line-height: 67px;
+  }
+.service-img-icon, .service-icon {
+    margin-bottom: 30px;
+}
